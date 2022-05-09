@@ -28,11 +28,11 @@ File contains Frontend Code and uses the model.h5 file to predict fruit & Vegeta
 
 
 
-
-![Screenshot (6)](https://user-images.githubusercontent.com/72739657/167422290-2b699f48-f83e-42c2-82d3-c90c1e9eb8aa.png)
-![Screenshot (7)](https://user-images.githubusercontent.com/72739657/167422303-8d14ce6a-4488-4597-8876-a7a689662964.png)
-
-
+# Video Demo
 https://user-images.githubusercontent.com/72739657/167423734-ed7883bb-fe27-4ccb-a7fc-eac991a3bb89.mp4
 
 
+
+# Images
+![Screenshot (6)](https://user-images.githubusercontent.com/72739657/167422290-2b699f48-f83e-42c2-82d3-c90c1e9eb8aa.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/72739657/167422303-8d14ce6a-4488-4597-8876-a7a689662964.png)
